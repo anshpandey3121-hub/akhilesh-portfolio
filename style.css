@@ -1,0 +1,237 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#111;
+    color:white;
+    margin:0;
+    padding:0;
+}
+
+header{
+    text-align:center;
+    padding:60px;
+    background:#1e293b;
+}
+
+h1{
+    color:#00d9ff;
+}
+
+section{
+    padding:30px 60px;
+}
+
+h2{
+    color:#00d9ff;
+}
+
+blockquote{
+    font-style:italic;
+    background:#222;
+    padding:20px;
+    border-left:5px solid #00d9ff;
+}
+ul{
+    list-style:none;
+    padding:0;
+}
+
+ul li{
+    background:#222;
+    margin:10px 0;
+    padding:15px;
+    border-radius:10px;
+}
+
+section{
+    max-width:1000px;
+    margin:auto;
+}
+
+header{
+    padding:100px 20px;
+}
+
+h1{
+    font-size:50px;
+}
+
+p{
+    line-height:1.8;
+}
+body{
+    background:#0f172a;
+    color:white;
+    font-family:Segoe UI,sans-serif;
+}
+
+header{
+    text-align:center;
+    padding:120px 20px;
+    background:linear-gradient(135deg,#0f172a,#1e293b);
+}
+
+section{
+    max-width:1000px;
+    margin:auto;
+    padding:50px 20px;
+}
+
+h1{
+    font-size:60px;
+    color:#38bdf8;
+}
+
+h2{
+    color:#38bdf8;
+}
+
+.card{
+    background:#1e293b;
+    padding:25px;
+    border-radius:15px;
+    margin-top:15px;
+}
+card{
+    background:#1e293b;
+    padding:25px;
+    border-radius:15px;
+    margin-top:15px;
+    box-shadow:0 0 15px rgba(0,0,0,0.3);
+}
+
+.card p{
+    margin:10px 0;
+}
+
+blockquote{
+    background:#1e293b;
+    padding:20px;
+    border-left:5px solid #38bdf8;
+    border-radius:10px;
+    font-style:italic;
+}
+
+section{
+    max-width:1000px;
+    margin:auto;
+}
+h3{
+    color:#38bdf8;
+    margin-bottom:10px;
+}
+
+.card{
+    margin-bottom:20px;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    transition:0.3s;
+}
+body{
+    background:#0f172a;
+    color:white;
+}
+
+/* Tumhara baaki CSS code */
+
+
+section{
+    max-width:1000px;
+    margin:40px auto;
+    padding:20px;
+}
+
+h2{
+    color:#38bdf8;
+}
+body{
+    font-family: Arial, sans-serif;
+    background:#0f172a;
+    color:white;
+    margin:0;
+}
+
+nav{
+    background:#1e293b;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-weight:bold;
+}
+
+header{
+    text-align:center;
+    padding:50px 20px;
+}
+
+.profile-pic{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid #38bdf8;
+}
+
+section{
+    max-width:1000px;
+    margin:40px auto;
+    padding:20px;
+}
+
+h2{
+    color:#38bdf8;
+}
+
+ul{
+    line-height:1.8;
+}
+
+#contact{
+    text-align:center;
+    background:#1e293b;
+    padding:30px;
+    border-radius:10px;
+    margin-bottom:40px;
+}
+
+#contact p{
+    margin:10px 0;
+}
+header{
+    text-align:center;
+    padding:80px 20px;
+    background:linear-gradient(135deg,#0f172a,#1e293b);
+}
+
+h1{
+    font-size:50px;
+    color:#38bdf8;
+    margin-bottom:10px;
+}
+
+header p{
+    font-size:20px;
+}
+section{
+    max-width:1000px;
+    margin:40px auto;
+    padding:25px;
+    background:#1e293b;
+    border-radius:15px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.3);
+}
+nav a:hover{
+    color:#38bdf8;
+}
+footer{
+    text-align:center;
+    padding:20px;
+    background:#1e293b;
+    margin-top:30px;
+}
